@@ -10,7 +10,7 @@ has_toc: false
 # Mathematical operations with binary numbers
 {: .no_toc}
 
-This chapter introduce the basic arithmetic operations using binary numbers as well as the Boolean algebra.
+This chapter introduces the basic arithmetic operations using binary numbers as well as the Boolean algebra.
 
 
 ## Chapter contents
