@@ -100,7 +100,7 @@ Let's tell you something more about conversion. Conversion from Binary to Decima
 
 -   **STEP 1:** Write the decimal value of each digit on top of them respectively. The value which you seek to write is 2<sup>(place value from right)</sup> beginning from 0 i.e., 2<sup>0</sup>, 2<sup>1</sup>, 2<sup>2</sup> &#x2026;. continuing up to 2<sup>7</sup>.
 -   **STEP 2:** Now, multiply each digit of binary number with its value.
--   **STEP 3:** Add 'em all.
+-   **STEP 3:** Add them all.
 -   **STEP 4:** Result is ready :)
 
 ***Note: If the number is large, increase bits of the binary number on the left. Keep in mind that it's value will increase subsequently.***
